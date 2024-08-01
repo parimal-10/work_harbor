@@ -30,7 +30,7 @@ Key Features
 
 Additional Features
 
-1)User Profiles:
+User Profiles:
 
     Both service seekers and providers have profile pages.
     
@@ -40,7 +40,7 @@ Additional Features
 
 Benefits
 
-2)Employment Opportunities:
+Employment Opportunities:
     
     The platform offers more employment opportunities to skilled individuals who may lack connections or traditional workspaces.
     
