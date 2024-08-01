@@ -1,5 +1,6 @@
 # TaskHarbor
 Our platform connects service seekers with skilled service providers in their area, making it easier for individuals to find the right help for their needs. The unique aspects of our model include:
+
 Key Features
 1)Service Seeker Search:
     Service seekers can search for service providers nearby.
